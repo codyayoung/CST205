@@ -1,0 +1,134 @@
+# Cody Young
+# CST 205
+# Lab 3 
+# 2018-10-28
+
+# Reduces the amount of red in an image by half.
+def halfRed():
+  lessRed(50)
+  
+# Removes all blue from an image.
+def noBlue():
+  filename = pickAFile()
+  pic = makePicture(filename)
+  pixels = getPixels(pic)
+  
+  for p in pixels:
+    b = getBlue(p)
+    setBlue(p, b * 0)
+    
+  repaint(pic)
+
+# Problem 1
+# Reduces the amount of red in an image by a given percentage.
+def lessRed(percentage):
+  filename = pickAFile()
+  pic = makePicture(filename)
+  pixels = getPixels(pic)
+  for p in pixels:
+    r = getRed(p)
+    setRed(p, r * ((100-percentage)/100))
+  repaint(pic)
+
+# Problem 2
+# Increases the amount of red in an image by a given percentage.
+def moreRed(percentage):
+  filename = pickAFile()
+  pic = makePicture(filename)
+  pixels = getPixels(pic)
+  
+  for p in pixels:
+    r = getRed(p)
+    setRed(p, r * ((100+percentage)/100))
+    
+  repaint(pic)
+
+# Problem 3
+# Makes an image look pink.
+def roseColoredGlasses():
+  filename = pickAFile()
+  pic = makePicture(filename)
+  pixels = getPixels(pic)
+  
+  for p in pixels:
+    r = getRed(p)
+    b = getBlue(p)
+    setRed(p, r * 2.00)
+    setBlue(p, b * 1.50)
+  
+  repaint(pic)
+
+# Problem 4
+# Lightens each pixel in a picture.
+def lightenUp():
+  filename = pickAFile()
+  pic = makePicture(filename)
+  pixels = getPixels(pic)
+  
+  for p in pixels:
+    newColor = makeLighter(getColor(p))
+    setColor(p, newColor) 
+  
+  repaint(pic)
+
+# Problem 5
+# Creates the negative of the original picture.
+def makeNegative():
+  filename = pickAFile()
+  pic = makePicture(filename)
+  pixels = getPixels(pic)
+  
+  for p in pixels:
+    r = 255 - getRed(p)
+    g = 255 - getGreen(p)
+    b = 255 - getBlue(p)	
+    
+    setColor(p, makeColor(r, g, b))
+    
+  repaint(pic)
+  
+# Problem 6
+# Changes an image to black and white by converting each pixel to grayscale.
+def BnW():
+  filename = pickAFile()
+  pic = makePicture(filename)
+  pixels = getPixels(pic)
+  
+  for p in pixels:
+    r = getRed(p)
+    g = getGreen(p)
+    b = getBlue(p)
+    
+    average = ((r + g + b) / 3)
+    
+    setRed(p, average)
+    setGreen(p, average)
+    setBlue(p, average)
+  
+  repaint(pic)
+  
+# A better version of the above black and white conversion function.
+def betterBnW():
+  filename = pickAFile()
+  pic = makePicture(filename)
+  pixels = getPixels(pic)
+  
+  for p in pixels:
+    r = getRed(p)
+    g = getGreen(p)
+    b = getBlue(p)
+    
+    average = ((r * 0.299) + (g * 0.587) + (b * 0.114))
+    
+    setRed(p, average)
+    setGreen(p, average)
+    setBlue(p, average)
+  
+  repaint(pic)
+
+
+                                                            
+              
+
+  
+  
