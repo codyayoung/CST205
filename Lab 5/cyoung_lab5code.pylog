@@ -1,0 +1,354 @@
+<file_created time="Sun Nov 04 10:31:07 PST 2018">
+<menu_button time="Sun Nov 04 10:31:09 PST 2018">Open Program</menu_button>
+<menu_button time="Sun Nov 04 10:31:14 PST 2018">Save Program As...</menu_button>
+<file_saved time="Sun Nov 04 10:31:32 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 11:10:34 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 11:10:34 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 11:11:26 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 11:11:26 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 11:12:01 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 11:12:01 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 11:12:01 PST 2018">Load Program</menu_button>
+<command_run time="Sun Nov 04 11:12:56 PST 2018">pyCopy(source, target, 100, 100)></command_run>
+<command_run time="Sun Nov 04 11:13:13 PST 2018">source = makeAPicture(pickAFile())></command_run>
+<command_run time="Sun Nov 04 11:13:22 PST 2018">source = makePicture(pickAFile())></command_run>
+<command_run time="Sun Nov 04 11:13:42 PST 2018">target = makeEmptyPicture(2000,2000)></command_run>
+<command_run time="Sun Nov 04 11:13:51 PST 2018">pyCopy(source, target, 100, 100)></command_run>
+<menu_button time="Sun Nov 04 11:14:16 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 11:14:16 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 11:14:17 PST 2018">Load Program</menu_button>
+<command_run time="Sun Nov 04 11:14:21 PST 2018">source = makePicture(pickAFile())></command_run>
+<command_run time="Sun Nov 04 11:14:26 PST 2018">target = makeEmptyPicture(2000,2000)></command_run>
+<command_run time="Sun Nov 04 11:14:30 PST 2018">pyCopy(source, target, 100, 100)></command_run>
+<menu_button time="Sun Nov 04 11:14:59 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 11:14:59 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 11:15:08 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 11:15:08 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 11:15:26 PST 2018">Load Program</menu_button>
+<command_run time="Sun Nov 04 11:15:29 PST 2018">source = makePicture(pickAFile())></command_run>
+<command_run time="Sun Nov 04 11:15:41 PST 2018">target = makeEmptyPicture(4000,4000)></command_run>
+<command_run time="Sun Nov 04 11:15:46 PST 2018">pyCopy(source, target, 100, 100)></command_run>
+<menu_button time="Sun Nov 04 11:17:04 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 11:17:04 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 11:17:04 PST 2018">Load Program</menu_button>
+<command_run time="Sun Nov 04 11:17:16 PST 2018">source = makePicture(pickAFile())></command_run>
+<command_run time="Sun Nov 04 11:17:32 PST 2018">target = makeEmptyPicture(4000,4000)></command_run>
+<command_run time="Sun Nov 04 11:17:40 PST 2018">pyCopy(source, target, 0, 0)></command_run>
+<command_run time="Sun Nov 04 11:17:56 PST 2018">getWidth(source)></command_run>
+<command_run time="Sun Nov 04 11:17:58 PST 2018">getHeight(source)></command_run>
+<command_run time="Sun Nov 04 11:18:14 PST 2018">source = makePicture(pickAFile())></command_run>
+<command_run time="Sun Nov 04 11:18:41 PST 2018">target = makeEmptyPicture(4000,4000)></command_run>
+<command_run time="Sun Nov 04 11:19:05 PST 2018">pyCopy(source, target, 0, 0)></command_run>
+<menu_button time="Sun Nov 04 11:23:39 PST 2018">Load Program</menu_button>
+<command_run time="Sun Nov 04 11:23:46 PST 2018">source = makePicture(pickAFile())></command_run>
+<command_run time="Sun Nov 04 11:23:51 PST 2018">target = makeEmptyPicture(4000,4000)></command_run>
+<command_run time="Sun Nov 04 11:23:59 PST 2018">pyCopy(source, target, 100, 100)></command_run>
+<menu_button time="Sun Nov 04 11:27:56 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 11:27:56 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 11:27:57 PST 2018">Load Program</menu_button>
+<command_run time="Sun Nov 04 11:28:02 PST 2018">source = makePicture(pickAFile())></command_run>
+<command_run time="Sun Nov 04 11:28:05 PST 2018">pyCopy(source, target, 100, 100)></command_run>
+<menu_button time="Sun Nov 04 11:29:04 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 11:29:04 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 11:29:04 PST 2018">Load Program</menu_button>
+<command_run time="Sun Nov 04 11:29:09 PST 2018">source = makePicture(pickAFile())></command_run>
+<command_run time="Sun Nov 04 11:29:23 PST 2018">target = makeEmptyPicture(2000,2000)></command_run>
+<command_run time="Sun Nov 04 11:29:40 PST 2018">pyCopy(source, target, 100, 100)></command_run>
+<command_run time="Sun Nov 04 11:31:26 PST 2018">source = makePicture(pickAFile())></command_run>
+<command_run time="Sun Nov 04 11:31:33 PST 2018">target = makeEmptyPicture(2000,2000)></command_run>
+<command_run time="Sun Nov 04 11:31:43 PST 2018">pyCopy(source, target, 100, 500)></command_run>
+<menu_button time="Sun Nov 04 11:33:47 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 11:33:47 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 13:42:34 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 13:42:34 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 13:43:41 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 13:43:41 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 13:43:42 PST 2018">Load Program</menu_button>
+<menu_button time="Sun Nov 04 13:52:43 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 13:52:43 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 13:54:55 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 13:54:55 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 13:55:05 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 13:55:05 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 13:57:31 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 13:57:31 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 13:59:15 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 13:59:15 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 14:01:05 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 14:01:05 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 14:45:17 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 14:45:17 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+<file_opened time="Sun Nov 04 15:09:40 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_opened>
+<menu_button time="Sun Nov 04 15:22:43 PST 2018">repaint</menu_button>
+<menu_button time="Sun Nov 04 15:22:55 PST 2018">Program Area + Interactions Area</menu_button>
+<menu_button time="Sun Nov 04 15:50:16 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 15:50:16 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 16:12:54 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 16:12:54 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 16:20:47 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 16:20:47 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 16:26:07 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 16:26:07 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 16:44:25 PST 2018">Load Program</menu_button>
+<file_saved time="Sun Nov 04 16:44:26 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 16:44:41 PST 2018">Load Program</menu_button>
+<file_saved time="Sun Nov 04 16:44:42 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 17:19:10 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 17:19:10 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 18:14:30 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 18:14:30 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 18:25:27 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 18:25:27 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 18:25:30 PST 2018">Load Program</menu_button>
+<menu_button time="Sun Nov 04 18:26:11 PST 2018">Load Program</menu_button>
+<file_saved time="Sun Nov 04 18:26:12 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 18:26:53 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 18:26:53 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 18:26:53 PST 2018">Load Program</menu_button>
+<menu_button time="Sun Nov 04 18:27:10 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 18:27:10 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 18:27:23 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 18:27:23 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 18:27:24 PST 2018">Load Program</menu_button>
+<menu_button time="Sun Nov 04 18:33:58 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 18:33:58 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 18:33:59 PST 2018">Load Program</menu_button>
+<menu_button time="Sun Nov 04 18:34:09 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 18:34:09 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 18:34:09 PST 2018">Load Program</menu_button>
+<menu_button time="Sun Nov 04 18:34:12 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 18:34:12 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 18:34:12 PST 2018">Load Program</menu_button>
+<menu_button time="Sun Nov 04 18:35:16 PST 2018">Load Program</menu_button>
+<file_saved time="Sun Nov 04 18:35:17 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 18:35:30 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 18:35:30 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 18:35:30 PST 2018">Load Program</menu_button>
+<menu_button time="Sun Nov 04 19:06:19 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 19:06:19 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 19:06:20 PST 2018">Load Program</menu_button>
+<menu_button time="Sun Nov 04 19:06:26 PST 2018">Load Program</menu_button>
+<file_saved time="Sun Nov 04 19:06:27 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 19:06:40 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 19:06:40 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 19:06:41 PST 2018">Load Program</menu_button>
+<menu_button time="Sun Nov 04 19:06:54 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 19:06:54 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 19:06:54 PST 2018">Load Program</menu_button>
+<menu_button time="Sun Nov 04 19:07:36 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 19:07:36 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 19:07:37 PST 2018">Load Program</menu_button>
+<menu_button time="Sun Nov 04 19:12:50 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 19:12:50 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 19:12:50 PST 2018">Load Program</menu_button>
+<menu_button time="Sun Nov 04 19:14:06 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 19:14:06 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 19:15:45 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 19:15:45 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 19:15:45 PST 2018">Load Program</menu_button>
+<menu_button time="Sun Nov 04 19:16:50 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 19:16:50 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 19:16:50 PST 2018">Load Program</menu_button>
+<menu_button time="Sun Nov 04 19:21:42 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 19:21:42 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 19:21:43 PST 2018">Load Program</menu_button>
+<menu_button time="Sun Nov 04 19:32:53 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 19:32:53 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 19:32:54 PST 2018">Load Program</menu_button>
+<menu_button time="Sun Nov 04 19:32:55 PST 2018">Load Program</menu_button>
+<menu_button time="Sun Nov 04 19:32:56 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 19:32:56 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<command_run time="Sun Nov 04 19:32:57 PST 2018">></command_run>
+<command_run time="Sun Nov 04 19:32:57 PST 2018">></command_run>
+<command_run time="Sun Nov 04 19:32:57 PST 2018">></command_run>
+<command_run time="Sun Nov 04 19:32:57 PST 2018">></command_run>
+<command_run time="Sun Nov 04 19:32:58 PST 2018">></command_run>
+<command_run time="Sun Nov 04 19:32:58 PST 2018">></command_run>
+<command_run time="Sun Nov 04 19:32:58 PST 2018">></command_run>
+<command_run time="Sun Nov 04 19:32:58 PST 2018">></command_run>
+<command_run time="Sun Nov 04 19:32:58 PST 2018">></command_run>
+<menu_button time="Sun Nov 04 19:33:00 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 19:33:00 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 19:33:00 PST 2018">Load Program</menu_button>
+<menu_button time="Sun Nov 04 19:33:13 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 19:33:13 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 19:33:13 PST 2018">Load Program</menu_button>
+<command_run time="Sun Nov 04 19:33:24 PST 2018">makeCollage()></command_run>
+<menu_button time="Sun Nov 04 19:34:28 PST 2018">Stop</menu_button>
+<menu_button time="Sun Nov 04 19:35:05 PST 2018">Load Program</menu_button>
+<file_saved time="Sun Nov 04 19:35:06 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<command_run time="Sun Nov 04 19:35:09 PST 2018">makeCollage()></command_run>
+<menu_button time="Sun Nov 04 19:37:39 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 19:37:39 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 19:38:00 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 19:38:00 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 19:38:00 PST 2018">Load Program</menu_button>
+<command_run time="Sun Nov 04 19:38:04 PST 2018">makeCollage()></command_run>
+<menu_button time="Sun Nov 04 19:38:20 PST 2018">Stop</menu_button>
+<menu_button time="Sun Nov 04 19:38:30 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 19:38:30 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 19:40:18 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 19:40:18 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 19:40:18 PST 2018">Load Program</menu_button>
+<command_run time="Sun Nov 04 19:40:23 PST 2018">makeCollage()></command_run>
+<menu_button time="Sun Nov 04 19:40:45 PST 2018">Stop</menu_button>
+<menu_button time="Sun Nov 04 19:41:05 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 19:41:05 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 19:41:05 PST 2018">Load Program</menu_button>
+<command_run time="Sun Nov 04 19:41:09 PST 2018">makeCollage()></command_run>
+<menu_button time="Sun Nov 04 19:46:48 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 19:46:48 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 19:47:15 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 19:47:15 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 19:47:16 PST 2018">Load Program</menu_button>
+<command_run time="Sun Nov 04 19:47:21 PST 2018">makeCollage()></command_run>
+<menu_button time="Sun Nov 04 19:48:23 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 19:48:23 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 19:48:23 PST 2018">Load Program</menu_button>
+<command_run time="Sun Nov 04 19:48:27 PST 2018">makeCollage()></command_run>
+<menu_button time="Sun Nov 04 19:54:48 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 19:54:48 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 19:54:48 PST 2018">Load Program</menu_button>
+<menu_button time="Sun Nov 04 19:55:35 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 19:55:35 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 19:55:35 PST 2018">Load Program</menu_button>
+<command_run time="Sun Nov 04 19:55:41 PST 2018">makeCollage()></command_run>
+<menu_button time="Sun Nov 04 19:58:09 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 19:58:09 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 19:58:41 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 19:58:41 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 20:01:38 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 20:01:38 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 20:01:42 PST 2018">Load Program</menu_button>
+<command_run time="Sun Nov 04 20:01:46 PST 2018">makeCollage()></command_run>
+<menu_button time="Sun Nov 04 20:03:13 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 20:03:13 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 20:03:13 PST 2018">Load Program</menu_button>
+<command_run time="Sun Nov 04 20:03:17 PST 2018">makeCollage()></command_run>
+<menu_button time="Sun Nov 04 20:05:38 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 20:05:38 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 20:05:40 PST 2018">Load Program</menu_button>
+<command_run time="Sun Nov 04 20:05:43 PST 2018">makeCollage()></command_run>
+<command_run time="Sun Nov 04 20:12:03 PST 2018">explore(target)></command_run>
+<menu_button time="Sun Nov 04 20:12:22 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 20:12:22 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 20:12:25 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 20:12:25 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 20:12:25 PST 2018">Load Program</menu_button>
+<command_run time="Sun Nov 04 20:12:28 PST 2018">makeCollage()></command_run>
+<menu_button time="Sun Nov 04 20:13:23 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 20:13:23 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+<file_opened time="Sun Nov 04 20:13:56 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_opened>
+<menu_button time="Sun Nov 04 20:13:57 PST 2018">Load Program</menu_button>
+<command_run time="Sun Nov 04 20:14:01 PST 2018">makeCollage()></command_run>
+<menu_button time="Sun Nov 04 20:15:19 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 20:15:19 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 20:15:19 PST 2018">Load Program</menu_button>
+<command_run time="Sun Nov 04 20:15:23 PST 2018">makeCollage()></command_run>
+<menu_button time="Sun Nov 04 20:19:45 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 20:19:45 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 20:21:00 PST 2018">Load Program</menu_button>
+<command_run time="Sun Nov 04 20:21:02 PST 2018">makeCollage()></command_run>
+<command_run time="Sun Nov 04 20:23:50 PST 2018">pic = makePicture(pickAFile())></command_run>
+<command_run time="Sun Nov 04 20:23:59 PST 2018">show(pic)></command_run>
+<command_run time="Sun Nov 04 20:24:22 PST 2018">pic = makePicture(pickAFile())></command_run>
+<command_run time="Sun Nov 04 20:24:28 PST 2018">show(pic)></command_run>
+<menu_button time="Sun Nov 04 20:24:54 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 20:24:54 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<command_run time="Sun Nov 04 20:26:12 PST 2018">pic = makePicture(pickAFile())></command_run>
+<command_run time="Sun Nov 04 20:26:18 PST 2018">show(pic)></command_run>
+<command_run time="Sun Nov 04 20:26:27 PST 2018">pic = makePicture(pickAFile())></command_run>
+<command_run time="Sun Nov 04 20:26:33 PST 2018">show(pic)></command_run>
+<menu_button time="Sun Nov 04 20:29:06 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 20:29:06 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 20:29:07 PST 2018">Load Program</menu_button>
+<command_run time="Sun Nov 04 20:29:10 PST 2018">makeCollage()></command_run>
+<menu_button time="Sun Nov 04 20:32:29 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 20:32:29 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<menu_button time="Sun Nov 04 20:32:30 PST 2018">Load Program</menu_button>
+<command_run time="Sun Nov 04 20:32:37 PST 2018">makeCollage()></command_run>
+<menu_button time="Sun Nov 04 20:36:10 PST 2018">Load Program</menu_button>
+<file_saved time="Sun Nov 04 20:36:11 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<command_run time="Sun Nov 04 20:36:11 PST 2018">makeCollage()></command_run>
+<menu_button time="Sun Nov 04 20:38:44 PST 2018">Load Program</menu_button>
+<file_saved time="Sun Nov 04 20:38:45 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
+<command_run time="Sun Nov 04 20:38:47 PST 2018">makeCollage()></command_run>
+<menu_button time="Sun Nov 04 20:41:58 PST 2018">Save Program</menu_button>
+<file_saved time="Sun Nov 04 20:41:58 PST 2018">C:\Users\Cody\Documents\CSUMB\CST 205\Lab 5\cyoung_lab5code.py</file_saved>
+</file_created>
