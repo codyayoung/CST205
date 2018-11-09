@@ -107,6 +107,6 @@ def betterBnW():
    pixels = getPixels(pic)
    for p in pixels:
       # Find opposite of color by subtracting from max and multiply by weight
-      newColor =  (getRed(p) * 0.299 + getGreen(p) * 0.587 + getBlue(p) * 0.114) / 3
+      newColor =  (getRed(p) * 0.299 + getGreen(p) * 0.587 + getBlue(p) * 0.114)
       setColor(p, makeColor(newColor, newColor, newColor))
    repaint(pic)
