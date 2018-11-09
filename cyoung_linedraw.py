@@ -34,7 +34,7 @@ def lineDraw(pic):
 				setColor(source, black)
 			else:
 				setColor(source, white)
-	
+	show(pic)
 	return pic
 		
 # Helper Functions
