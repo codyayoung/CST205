@@ -18,7 +18,7 @@ def lineDraw():
   betterBnW(pic)
   
   #Threshold value for luminance (difference)
-  threshold = 9
+  threshold = 10
   
   for x in range (0, width-1):
     for y in range(0, height-1):
@@ -43,6 +43,7 @@ def lineDraw():
         setColor(source, white)
         
   repaint(pic)
+	
   #Note: Change 'dir' to your working directory
   dir = "C:\Users\Cody\Documents\CSUMB\CST 205\CST 205 - Images\Image Functions\linedrawn.jpg"
   writePictureTo(pic, dir)

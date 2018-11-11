@@ -16,7 +16,9 @@ def halfRed():
     # set red value to the new reduced value
     setRed(p, r * .5)
    repaint(pic) 
-    
+   
+   dir = "C:\Users\Cody\Documents\CSUMB\CST 205\CST 205 - Images\Image Functions\Lab 3/halfred.jpg"
+   writePictureTo(pic, dir)
 
 # Eliminates all blue in each pixel        
 def noBlue():
@@ -26,17 +28,24 @@ def noBlue():
     b = getBlue(p)
     setBlue(p, 0)
    repaint(pic)
+	 
+   dir = "C:\Users\Cody\Documents\CSUMB\CST 205\CST 205 - Images\Image Functions\Lab 3/noblue.jpg"
+   writePictureTo(pic, dir)
     
 # Problem 1:
 # Reduces amount of redness by the percentage passed in to the parameter        
 def lessRed(percent):
    pic = getPic()
+   show(pic)
    pixels = getPixels(pic)
    for p in pixels:
     r = getRed(p)
     # set red value to the new reduced value
     setRed(p, r - (r * (percent/100)))
-   repaint(pic) 
+   repaint(pic)
+	 
+   dir = "C:\Users\Cody\Documents\CSUMB\CST 205\CST 205 - Images\Image Functions\Lab 3/lessred.jpg"
+   writePictureTo(pic, dir)
     
 # Problem 2:
 # Increases amount of redness by the percentage passed in to the parameter      
@@ -52,7 +61,10 @@ def moreRed(percent):
     #if newRed > 255:
     # newRed = 255
     setRed(p, newRed)
-   repaint(pic) 
+   repaint(pic)
+		
+   dir = "C:\Users\Cody\Documents\CSUMB\CST 205\CST 205 - Images\Image Functions\Lab 3\morered.jpg"
+   writePictureTo(pic, dir)
     
 # Problem 3:
 # Makes an image appear pink
@@ -64,7 +76,10 @@ def roseColoredGlasses():
      myGreen = getGreen(p) * .50
      myBlue = getBlue(p) * .75
      setColor(p, makeColor(myRed, myGreen, myBlue))
-   repaint(pic) 
+   repaint(pic)
+	 
+   dir = "C:\Users\Cody\Documents\CSUMB\CST 205\CST 205 - Images\Image Functions\Lab 3/rosecolored.jpg"
+   writePictureTo(pic, dir)
 
 # Problem 4:
 # Makes every pixel in the picture appear lighter; effectively lightens the entire picture
@@ -74,7 +89,10 @@ def lightenUp():
    for p in pixels:
     # set color of each pixel to a lighter hue
     setColor(p, makeLighter(getColor(p)))
-   repaint(pic) 
+   repaint(pic)
+	 
+   dir = "C:\Users\Cody\Documents\CSUMB\CST 205\CST 205 - Images\Image Functions\Lab 3/enlightened.jpg"
+   writePictureTo(pic, dir)
 
 # Problem 5:
 # Alters the picture so that it is the negative of the original
@@ -89,6 +107,9 @@ def makeNegative():
      b = 255 - getBlue(p)
      setColor(p, makeColor(r, g, b))
    repaint(pic)
+	 
+   dir = "C:\Users\Cody\Documents\CSUMB\CST 205\CST 205 - Images\Image Functions\Lab 3/negative.jpg"
+   writePictureTo(pic, dir)
 
 # Problem 6: 
 # Alters the picture so that it is grayscale
@@ -100,6 +121,9 @@ def BnW():
      newColor =  (getRed(p) + getGreen(p) + getBlue(p)) / 3
      setColor(p, makeColor(newColor, newColor, newColor))
    repaint(pic)
+	 
+   dir = "C:\Users\Cody\Documents\CSUMB\CST 205\CST 205 - Images\Image Functions\Lab 3/grayscale.jpg"
+   writePictureTo(pic, dir)
  
 # improved grayscale function using weights  
 def betterBnW():
@@ -110,3 +134,6 @@ def betterBnW():
       newColor =  (getRed(p) * 0.299 + getGreen(p) * 0.587 + getBlue(p) * 0.114)
       setColor(p, makeColor(newColor, newColor, newColor))
    repaint(pic)
+	 
+   dir = "C:\Users\Cody\Documents\CSUMB\CST 205\CST 205 - Images\Image Functions\Lab 3/better_grayscale.jpg"
+   writePictureTo(pic, dir)

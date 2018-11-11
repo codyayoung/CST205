@@ -18,7 +18,7 @@ def lineDraw():
   betterBnW(pic)
   
   #Threshold value for luminance (difference)
-  threshold = 9
+  threshold = 10
   
   for x in range (0, width-1):
     for y in range(0, height-1):
