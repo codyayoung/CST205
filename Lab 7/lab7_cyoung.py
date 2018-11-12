@@ -22,7 +22,7 @@ def thanksCard():
   show(canvas)
   return canvas
   
-  
+
 # ----------------
 # Helper Functions
 # ----------------
