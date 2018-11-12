@@ -1,4 +1,5 @@
 # Ryan Dorrity, Cody Young
+# Team SCSI Logic - Ryan Dorrity, Sara Kazemi, Nathan Warren-Acord, Cody Young 
 # Lab 7 
 # 11/11/2018
 
