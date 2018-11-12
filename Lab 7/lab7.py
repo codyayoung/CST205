@@ -37,9 +37,10 @@ def thanksCard():
   border_width = getWidth(border)
   border_height = getHeight(border)
   
-  canvas = makeEmptyPicture(width, height)
-  pyCopy(pic,canvas,0,0)
-  pyCopy(border,canvas,0,0)
+  #Copy first photo onto empty canvas, overlay leaf border 
+  canvas = makeEmptyPicture(width, height)  
+  pyCopy(pic,canvas,0,0)                    
+  chromaKey(border,canvas)
   
   explore(canvas)
   return canvas	
@@ -74,8 +75,7 @@ def pyCopy(source, target, targetX, targetY):
     resultX += 1
         
   return target 
-    
-	
+    	
 ############################################
 # Parameters: pic is a greenscreen image, back is 
 # the background image. 
