@@ -42,13 +42,13 @@ def thanksCard():
   canvas = pyCopy(pic,canvas,0,0)
   canvas = chromaKey(canvas,family)
   canvas = facePlant(face, canvas)
-  addTextWithStyle(canvas,280,580,"Happy Thanksgiving!",makeStyle(serif,bold,36),red)                    
+  addTextWithStyle(canvas,280,580,"Happy Thanksgiving!",makeStyle(serif,bold,48),red)                    
   
-  #Note: Change directory to your working directory
+  #Note: Change directory to your working directory, and uncomment the following 2 lines 
   
-  #dir = "C:\Users\Cody\Documents\CSUMB\CST 205\CST 205 - Images\Image Functions\Lab 7/thanksgivingcard.png"
-  #writePictureTo(pic, dir) 
-  return pic	
+  #dir = "C:\Users\Cody\Documents\CSUMB\CST 205\CST 205 - Images\Image Functions\Lab 7\output/thanksgivingcard.png"
+  #writePictureTo(canvas, dir) 
+  return canvas	
 
 # Returns the picture given a directory
 def getPic():
