@@ -76,3 +76,15 @@ def pyCopy(source, target, targetX, targetY):
   return target 
     
 	
+############################################
+# Parameters: pic is a greenscreen image, back is 
+# the background image. 
+def chromaKey(pic, back):
+  for x in range (0, getWidth(pic)):
+    for y in range(0, getHeight(pic)):
+      pic_p = getPixel(pic, x, y)
+      back_p = getPixel(back, x, y)
+      if distance(makeColor(0, 0, 0), getColor(pic_p)) < 75:
+        setColor(pic_p, getColor(back_p))
+  show(pic)
+  return pic 
