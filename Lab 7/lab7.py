@@ -27,23 +27,27 @@ def snowman(pic):
 # Problem 1 - Thanksgiving Card
 # Makes a custom Thanksgiving card. 
 def thanksCard():
-  #Get first photo for background
+  #Get first photo for background (leaf border, need to use it for chroma key) 
   pic = getPic()
   width = getWidth(pic)
   height = getHeight(pic)
   
-  #Get second photo for border
+  #Get second photo for border (photo)
   border = getPic()
   border_width = getWidth(border)
   border_height = getHeight(border)
   
-  #Copy first photo onto empty canvas, overlay leaf border 
+  #Copy first photo onto empty canvas(leaf border), overlay photo  
   canvas = makeEmptyPicture(width, height)  
-  pyCopy(pic,canvas,0,0)                    
-  chromaKey(border,canvas)
+  pyCopy(border,canvas,0,0)
+  addTextWithStyle(canvas,280,580,"Happy Thanksgiving!",makeStyle(serif,bold,36),red)                    
+  chromaKey(pic,canvas)
   
-  explore(canvas)
-  return canvas	
+  #Note: Change directory to your working directory
+  explore(pic)
+  #dir = "C:\Users\Cody\Documents\CSUMB\CST 205\CST 205 - Images\Image Functions\Lab 7/thanksgivingcard.png"
+  #writePictureTo(pic, dir) 
+  return pic	
 
 # Returns the picture given a directory
 def getPic():
@@ -58,7 +62,7 @@ def simpleCopy(pic):
     for y in range (0, height):
       color = getColor(getPixel(pic, x, y))
       setColor(getPixel(canvas, x, y), color)
-  #(canvas)
+
   return canvas
   
 # Copies a source image to a new location in a blank target image.
@@ -86,5 +90,5 @@ def chromaKey(pic, back):
       back_p = getPixel(back, x, y)
       if distance(makeColor(0, 0, 0), getColor(pic_p)) < 75:
         setColor(pic_p, getColor(back_p))
-  show(pic)
+  
   return pic 
