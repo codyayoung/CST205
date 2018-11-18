@@ -1,2 +1,2 @@
 # CST205
-Python imaging code for CST 205.
+Python multimedia functions for CST 205.
