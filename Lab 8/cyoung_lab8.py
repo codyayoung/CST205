@@ -9,7 +9,7 @@ def main():
   test = getSound()
   #changeVolume(test, 0.25)
   #maxSample(test)
-  #maxVolume(test)
+  maxVolume(test)
   #increaseVolume(test)
   #decreaseVolume(test)
   #goToEleven(test)
@@ -40,19 +40,15 @@ def changeVolume(sound,factor):
     setSampleValue(sample, value * factor)
     
   return sound
-  
-# Finds the maximum sample value in a sound, and returns it.
+	
+# maxSample: Finds a multiplier that will give us the loudest volume 
+# that we can get based on a maximum sound sample and then boosts 
+# the sound values by that amount. 
 def maxSample(sound):
-  #Create an array to hold sample levels(values)
-  levels = []        
-  
-  for i in range(1, getLength(sound)):
-    levels.append(getSampleValueAt(sound, i))
-  
-  #Assign variable to max sample value and return
-  peak = max(levels)        
-  print("Maximum sample value: %d" % peak)      
-  return peak
+  largest = 0
+  for sample in getSamples(sound):
+    largest = max(largest,getSampleValue(sample))
+  return largest 
 
 # Increases sound to the maxium value.
 def maxVolume(sound):
