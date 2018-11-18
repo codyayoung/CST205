@@ -28,7 +28,6 @@ def main():
   menu()
   game()
   
-
 # Runs the actual hangman game.
 def game():
   #Instance variables
@@ -42,16 +41,18 @@ def game():
   #Winning phrase
   phrase = "chocolate"
   
-  #While guesses <= 6:
-  #Get user input (NOT case sensitive) 
-  #Check for fault conditions
+  while (guesses <= 6):
+    #Get user input (NOT case sensitive)
+    guess = requestString("Guess a letter:") 
+    #Check for fault conditions
+    #errorCheck(guess):
   
-  #If clear of fault conditions, check if letter is in phrase
-  #If true(in phrase), print letter and "Correct!" guess message
-  #If false(not in phrase), add letter to incorrect guesses,
-  #print "Incorrect!" message, update incorrect gusses, print previous state
-  #Increment guesses counter if necessary
-  #Check for win/lose game condition
+    #If clear of fault conditions, check if letter is in phrase
+    #If true(in phrase), print letter and "Correct!" guess message
+    #If false(not in phrase), add letter to incorrect guesses,
+    #print "Incorrect!" message, update incorrect gusses, print previous state
+    #Increment guesses counter if necessary
+    #Check for win/lose game condition
   
 # Draws the main menu.
 def menu():
@@ -62,9 +63,10 @@ def menu():
   print("Guess the word or phrase correctly before you run out of attempts.\n")
 
 #Checks user guess for fault conditions.
-#def errorCheck(guess):
-  #Fault conditions:
-  #1. User does not enter an alphabetic char
+def errorCheck(guess):
+  #User does not enter an alphabetic char
+  if(!guess.isalpha()):
+    
   #2. User enters letter previously guessed
   #3. User enters more than one char at a time
     
