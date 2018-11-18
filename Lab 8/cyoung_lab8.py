@@ -9,12 +9,12 @@ def main():
   test = getSound()
   #changeVolume(test, 0.25)
   #maxSample(test)
-  maxVolume(test)
+  #maxVolume(test)
   #increaseVolume(test)
   #decreaseVolume(test)
   #goToEleven(test)
   
-  explore(test)
+  #explore(test)
  
 # Increases volume of a sound.
 def increaseVolume(sound):
